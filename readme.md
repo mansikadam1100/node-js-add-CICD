@@ -44,7 +44,7 @@ This project implements a complete CI/CD pipeline for a Node.js application depl
 -![](./img/3.png)- GitHub repository structure and code management
 
 ### CI/CD Pipeline
-- ![](./img/4.png) - Jenkins pipeline dashboard with build history and status
+- ![](./img/Screenshot%202025-11-05%20230719.png) - Jenkins pipeline dashboard with build history and status
 - ![](./img/5.png) - GitHub webhooks configuration for Jenkins integration
 - ![](./img/CICD.png) - Jenkins job configuration with SCM and trigger settings
 
